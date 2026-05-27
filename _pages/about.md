@@ -14,17 +14,12 @@ About Me
 I am a student at Richland High School, and I have a deep interest in marine life. I work slowly, but when I get the hang of things I can complete assignments quickly. I love coding, even if I am not the best at it. It is fun to make actually functioning programs that serve a purpose to people. Making informational websites is one of my favorite things. I also enjoy networking and data systems. Although understanding networking is hard, it is fun to learn how computers work and communicate with eachother. Data is fun to analyze and organize as well. 
 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I have a deep interest in marine biology and geology. I love looking at mountains and canyons and being able to infer how they were formed, it definitely makes you feel smart. Marine biology started out as a small interest for me, but gradually i loved it more and more. The science of sea life and underwater ecosystems piques my interest more than anything else. I also have a LOT of fandoms im in, due to being a big bookworm and gaining a lot of interests from my time on the internet. I like robotics and coding, although it does frustrate me sometimes, it is a good skill to have with our future becoming more and more dependent on electronics. 
 
 
-Getting started
+Skills
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+My technical skills are not as advanced as my soft skills, but they are still exceptional. I am very skilled with networking and problem solving, as I have used them many times in my past work. I am also very good with coding if it is something simple and straightforward. I have scored well on CollegeBoard quizzes I've taken, and I have studied networking and data many times. Data sorting and analyzing is also another technical skill of mine. I love taking data
 
 Site-wide configuration
 ------
