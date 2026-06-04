@@ -1,6 +1,6 @@
 ---
 title: "Artifact 1: Pixel Art"
-excerpt: "This is my first project I would like to include. It is some pixel art I completed for my Binary unit. <br/><img scr='/images/pixel.png'>"
+excerpt: "This is my first project I would like to include. It is some pixel art I completed for my Binary unit. <br/><img src='/images/pixel.png'>"
 collection: portfolio
 ---
 
